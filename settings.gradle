@@ -1,0 +1,4 @@
+include ':slide_library'
+include ':library'
+include ':demo'
+include ':app'

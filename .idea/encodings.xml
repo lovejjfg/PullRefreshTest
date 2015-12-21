@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/AndroidManifest.xml" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java/com" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/res" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/res/drawable-hdpi" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/res/drawable-ldpi" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/res/drawable-mdpi" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/res/drawable-xhdpi" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/res/drawable-xxhdpi" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/res/layout" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/res/menu" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/res/values" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/library" charset="GB18030" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
